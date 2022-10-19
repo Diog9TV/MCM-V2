@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="normality.png">
+<SubTexture name="Down0000" x="1656" y="0" width="349" height="558" frameX="-2" frameY="-6" frameWidth="353" frameHeight="564" />
+<SubTexture name="Down0001" x="1312" y="0" width="344" height="564" frameX="-4" frameY="1" frameWidth="353" frameHeight="564" />
+<SubTexture name="Right0000" x="976" y="0" width="336" height="604" frameX="-1" frameY="-8" frameWidth="348" frameHeight="611" />
+<SubTexture name="Right0001" x="646" y="0" width="330" height="611" frameX="0" frameY="-1" frameWidth="348" frameHeight="611" />
+<SubTexture name="Up0000" x="0" y="0" width="323" height="633" frameX="0" frameY="0" frameWidth="323" frameHeight="633" />
+<SubTexture name="Up0001" x="323" y="0" width="323" height="624" frameX="0" frameY="-8" frameWidth="323" frameHeight="633" />
+<SubTexture name="Left0000" x="657" y="633" width="329" height="581" frameX="-4" frameY="-10" frameWidth="339" frameHeight="592" />
+<SubTexture name="Left0001" x="329" y="633" width="328" height="588" frameX="-5" frameY="-3" frameWidth="339" frameHeight="592" />
+<SubTexture name="Broken0000" x="0" y="633" width="329" height="593" frameX="0" frameY="0" frameWidth="329" frameHeight="593" />
+</TextureAtlas>
