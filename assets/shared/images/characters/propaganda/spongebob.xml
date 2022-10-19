@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spongebob.png">
+<SubTexture name="down pose0000" x="0" y="0" width="339" height="259" frameX="1" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="down pose0001" x="339" y="0" width="338" height="259" frameX="0" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="left pose0000" x="0" y="259" width="338" height="259" frameX="0" frameY="0" frameWidth="338" frameHeight="259" />
+<SubTexture name="left pose0001" x="1016" y="518" width="337" height="258" frameX="0" frameY="0" frameWidth="338" frameHeight="259" />
+<SubTexture name="right pose0000" x="338" y="259" width="338" height="259" frameX="0" frameY="0" frameWidth="338" frameHeight="259" />
+<SubTexture name="spong idle0000" x="677" y="0" width="339" height="259" frameX="0" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="spong idle0001" x="677" y="259" width="338" height="259" frameX="0" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="spong idle0002" x="0" y="518" width="339" height="259" frameX="0" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="spong idle0003" x="339" y="518" width="338" height="259" frameX="0" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="spong idle0004" x="677" y="518" width="339" height="259" frameX="1" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="up pose0000" x="1016" y="0" width="338" height="259" frameX="0" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="up pose0001" x="0" y="777" width="339" height="259" frameX="0" frameY="0" frameWidth="339" frameHeight="259" />
+<SubTexture name="right pose0001" x="1016" y="259" width="338" height="259" frameX="0" frameY="0" frameWidth="338" frameHeight="259" />
+</TextureAtlas>

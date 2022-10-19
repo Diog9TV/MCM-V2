@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yellow_code.png">
+<SubTexture name="yellow_code0000" x="500" y="470" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0001" x="729" y="470" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0002" x="1000" y="0" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0003" x="1000" y="469" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0004" x="1229" y="0" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0005" x="1229" y="469" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0006" x="0" y="940" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0007" x="229" y="940" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0008" x="458" y="940" width="229" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0009" x="687" y="940" width="227" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0010" x="914" y="940" width="232" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0011" x="1146" y="940" width="247" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0012" x="1458" y="0" width="247" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0013" x="1705" y="0" width="250" height="469" frameX="0" frameY="0" frameWidth="250" frameHeight="469" />
+<SubTexture name="yellow_code0014" x="0" y="0" width="250" height="470" frameX="0" frameY="0" frameWidth="250" frameHeight="470" />
+<SubTexture name="yellow_code0015" x="250" y="0" width="250" height="470" frameX="0" frameY="0" frameWidth="250" frameHeight="470" />
+<SubTexture name="yellow_code0016" x="500" y="0" width="250" height="470" frameX="0" frameY="0" frameWidth="250" frameHeight="470" />
+<SubTexture name="yellow_code0017" x="750" y="0" width="250" height="470" frameX="0" frameY="0" frameWidth="250" frameHeight="470" />
+<SubTexture name="yellow_code0018" x="0" y="470" width="250" height="470" frameX="0" frameY="0" frameWidth="250" frameHeight="470" />
+<SubTexture name="yellow_code0019" x="250" y="470" width="250" height="470" frameX="0" frameY="0" frameWidth="250" frameHeight="470" />
+</TextureAtlas>
