@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Served", "plankton", [63, 92, 93]],
+		["Sanguilacrimae", "squiddy", [182, 203, 194]],
+		["Satisfaction", "spongebob", [185, 153, 72]],
+		["Bold or Brash", "starved", [0, 0, 255]],
+		["Propaganda", "reagan", [85, 151, 153]],
+		["Massacre", "leather", [108, 136, 152]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Freeplay Only",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
