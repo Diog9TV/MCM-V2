@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="static.png">
+<SubTexture name="doors0000" x="0" y="167" width="283" height="165" frameX="0" frameY="0" frameWidth="283" frameHeight="167" />
+<SubTexture name="doors0001" x="283" y="167" width="282" height="165" frameX="-1" frameY="0" frameWidth="283" frameHeight="167" />
+<SubTexture name="doors0002" x="0" y="0" width="283" height="167" frameX="0" frameY="0" frameWidth="283" frameHeight="167" />
+<SubTexture name="doors0003" x="283" y="0" width="282" height="167" frameX="-1" frameY="0" frameWidth="283" frameHeight="167" />
+</TextureAtlas>
