@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="starved_squidward.png">
+<SubTexture name="SS down0000" x="1937" y="0" width="182" height="379" frameX="-5" frameY="-22" frameWidth="193" frameHeight="403" />
+<SubTexture name="SS down0001" x="1937" y="0" width="182" height="379" frameX="-5" frameY="-22" frameWidth="193" frameHeight="403" />
+<SubTexture name="SS down0002" x="1245" y="1491" width="171" height="398" frameX="-12" frameY="-3" frameWidth="193" frameHeight="403" />
+<SubTexture name="SS down0003" x="1588" y="1491" width="171" height="393" frameX="-10" frameY="-8" frameWidth="193" frameHeight="403" />
+<SubTexture name="SS down0004" x="1416" y="1491" width="172" height="396" frameX="-4" frameY="-5" frameWidth="193" frameHeight="403" />
+<SubTexture name="SS down0005" x="1665" y="848" width="172" height="400" frameX="-2" frameY="-1" frameWidth="193" frameHeight="403" />
+<SubTexture name="SS down0006" x="1665" y="446" width="171" height="402" frameX="0" frameY="1" frameWidth="193" frameHeight="403" />
+<SubTexture name="SS idle0000" x="607" y="1043" width="144" height="446" frameX="0" frameY="0" frameWidth="144" frameHeight="446" />
+<SubTexture name="SS idle0001" x="751" y="1043" width="144" height="446" frameX="0" frameY="0" frameWidth="144" frameHeight="446" />
+<SubTexture name="SS idle0002" x="895" y="1043" width="144" height="446" frameX="0" frameY="0" frameWidth="144" frameHeight="446" />
+<SubTexture name="SS idle0003" x="1039" y="1043" width="145" height="446" frameX="0" frameY="0" frameWidth="144" frameHeight="446" />
+<SubTexture name="SS left0000" x="890" y="1491" width="355" height="436" frameX="-1" frameY="-27" frameWidth="355" frameHeight="466" />
+<SubTexture name="SS left0001" x="890" y="1491" width="355" height="436" frameX="-1" frameY="-27" frameWidth="355" frameHeight="466" />
+<SubTexture name="SS left0002" x="1335" y="0" width="330" height="449" frameX="-26" frameY="-14" frameWidth="355" frameHeight="466" />
+<SubTexture name="SS left0003" x="0" y="1491" width="337" height="445" frameX="-18" frameY="-18" frameWidth="355" frameHeight="466" />
+<SubTexture name="SS left0004" x="0" y="1043" width="336" height="448" frameX="-20" frameY="-15" frameWidth="355" frameHeight="466" />
+<SubTexture name="SS left0005" x="1335" y="449" width="329" height="448" frameX="-26" frameY="-15" frameWidth="355" frameHeight="466" />
+<SubTexture name="SS left0006" x="1184" y="1043" width="329" height="446" frameX="-26" frameY="-17" frameWidth="355" frameHeight="466" />
+<SubTexture name="SS right0000" x="691" y="531" width="237" height="468" frameX="-41" frameY="-2" frameWidth="282" frameHeight="473" />
+<SubTexture name="SS right0001" x="691" y="531" width="237" height="468" frameX="-41" frameY="-2" frameWidth="282" frameHeight="473" />
+<SubTexture name="SS right0002" x="928" y="531" width="271" height="460" frameX="-7" frameY="-11" frameWidth="282" frameHeight="473" />
+<SubTexture name="SS right0003" x="336" y="1043" width="271" height="448" frameX="-7" frameY="-23" frameWidth="282" frameHeight="473" />
+<SubTexture name="SS right0004" x="1665" y="0" width="272" height="446" frameX="-6" frameY="-25" frameWidth="282" frameHeight="473" />
+<SubTexture name="SS right0005" x="337" y="1491" width="276" height="445" frameX="-2" frameY="-26" frameWidth="282" frameHeight="473" />
+<SubTexture name="SS right0006" x="613" y="1491" width="277" height="445" frameX="0" frameY="-26" frameWidth="282" frameHeight="473" />
+<SubTexture name="SS up0000" x="0" y="0" width="317" height="531" frameX="-35" frameY="-5" frameWidth="363" frameHeight="538" />
+<SubTexture name="SS up0001" x="0" y="0" width="317" height="531" frameX="-35" frameY="-5" frameWidth="363" frameHeight="538" />
+<SubTexture name="SS up0002" x="343" y="531" width="348" height="507" frameX="-4" frameY="-29" frameWidth="363" frameHeight="538" />
+<SubTexture name="SS up0003" x="0" y="531" width="343" height="512" frameX="-9" frameY="-24" frameWidth="363" frameHeight="538" />
+<SubTexture name="SS up0004" x="655" y="0" width="340" height="514" frameX="-10" frameY="-22" frameWidth="363" frameHeight="538" />
+<SubTexture name="SS up0005" x="995" y="0" width="340" height="514" frameX="-11" frameY="-22" frameWidth="363" frameHeight="538" />
+<SubTexture name="SS up0006" x="317" y="0" width="338" height="516" frameX="-12" frameY="-20" frameWidth="363" frameHeight="538" />
+</TextureAtlas>
