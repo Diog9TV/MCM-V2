@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1205,
+				-215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-187,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-196
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				234,
+				-216
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1925,
+				-162
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-251,
+				-197
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/satisfaction/meatcanyon",
+	"position": [
+		-1050,
+		300
+	],
+	"healthicon": "spongebob",
+	"flip_x": true,
+	"healthbar_colors": [
+		185,
+		153,
+		72
+	],
+	"camera_position": [
+		-350,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 2.6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-11
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-53
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				176
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				26
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/canon_redmist",
+	"position": [
+		120,
+		330
+	],
+	"healthicon": "squiddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		182,
+		203,
+		194
+	],
+	"camera_position": [
+		-350,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

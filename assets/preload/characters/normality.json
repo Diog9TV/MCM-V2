@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-97,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Broken"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-47
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-75
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-27
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squidward/normality",
+	"position": [
+		40,
+		-60
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		114,
+		133
+	],
+	"camera_position": [
+		300,
+		750
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

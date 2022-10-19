@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-21,
+				114
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "SS idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				321,
+				127
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SS left"
+		},
+		{
+			"offsets": [
+				0,
+				129
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SS right"
+		},
+		{
+			"offsets": [
+				116,
+				247
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SS up"
+		},
+		{
+			"offsets": [
+				-4,
+				45
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SS down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved/starved_squidward",
+	"position": [
+		140,
+		260
+	],
+	"healthicon": "starved",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-100,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

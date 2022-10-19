@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-291,
+				-212
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "yellow_code",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/propaganda/yellow_code",
+	"position": [
+		-380,
+		100
+	],
+	"healthicon": "reagan",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		192,
+		93
+	],
+	"camera_position": [
+		450,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
