@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hes fucking dead.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shoot himself0000" x="0" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0005" x="1157" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0007" x="0" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0009" x="1157" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0010" x="0" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0014" x="1157" y="1804" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0015" x="2314" y="0" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0016" x="2314" y="902" width="1157" height="902"/>
+	<SubTexture name="Shoot himself0017" x="2314" y="1804" width="1157" height="902"/>
+	<SubTexture name="DEAD0000" x="0" y="2706" width="1157" height="902"/>
+</TextureAtlas>

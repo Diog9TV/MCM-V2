@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LeatherfacePat.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PatDown0000" x="2312" y="2348" width="671" height="698" frameX="0" frameY="0" frameWidth="839" frameHeight="867"/>
+	<SubTexture name="PatDown0001" x="2312" y="2348" width="671" height="698" frameX="0" frameY="0" frameWidth="839" frameHeight="867"/>
+	<SubTexture name="PatDown0002" x="0" y="3126" width="669" height="697" frameX="0" frameY="3" frameWidth="839" frameHeight="867"/>
+	<SubTexture name="PatDown0003" x="0" y="3126" width="669" height="697" frameX="0" frameY="3" frameWidth="839" frameHeight="867"/>
+
+	<SubTexture name="PatIdle0000" x="2240" y="1325" width="615" height="996"/>
+
+	<SubTexture name="PatLeft0000" x="0" y="1325" width="1124" height="1023" frameX="0" frameY="-13" frameWidth="1331" frameHeight="1039"/>
+	<SubTexture name="PatLeft0001" x="0" y="1325" width="1124" height="1023" frameX="0" frameY="-13" frameWidth="1331" frameHeight="1039"/>
+	<SubTexture name="PatLeft0002" x="1124" y="1325" width="1116" height="1021" frameX="-11" frameY="-15" frameWidth="1331" frameHeight="1039"/>
+	<SubTexture name="PatLeft0003" x="1124" y="1325" width="1116" height="1021" frameX="-11" frameY="-15" frameWidth="1331" frameHeight="1039"/>
+
+	<SubTexture name="PatRight0000" x="1140" y="2348" width="1172" height="778" frameX="0" frameY="0" frameWidth="1769" frameHeight="1636"/>
+	<SubTexture name="PatRight0001" x="0" y="2348" width="1140" height="778" frameX="-31" frameY="2" frameWidth="1769" frameHeight="1636"/>
+
+	<SubTexture name="PatUp0000" x="1253" y="0" width="1175" height="1325" frameX="-42" frameY="0" frameWidth="1438" frameHeight="1385"/>
+	<SubTexture name="PatUp0001" x="0" y="0" width="1253" height="1325" frameX="34" frameY="0" frameWidth="1438" frameHeight="1385"/>
+</TextureAtlas>
