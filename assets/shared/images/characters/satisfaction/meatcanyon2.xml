@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="meatcanyon2.png">
+  <SubTexture name="down instance 1000" x="0" y="0"  width="1171" height="577" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="577"/>
+  <SubTexture name="idle instance 1000" x="1171" y="0"  width="1171" height="577" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="577"/>
+  <SubTexture name="left instance 1000" x="0" y="577"  width="1171" height="577" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="577"/>
+  <SubTexture name="right instance 1000" x="0" y="1154"  width="1171" height="577" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="577"/>
+  <SubTexture name="up instance 1000" x="1171" y="577"  width="1171" height="577" frameX="-0" frameY="-0" frameWidth="1171" frameHeight="577"/>
+</TextureAtlas>
