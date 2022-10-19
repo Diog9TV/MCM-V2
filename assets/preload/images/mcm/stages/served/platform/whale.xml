@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="whale.png">
+<SubTexture name="body0000" x="0" y="0" width="304" height="145" frameX="0" frameY="0" frameWidth="304" frameHeight="145" />
+<SubTexture name="body0001" x="304" y="0" width="305" height="141" frameX="0" frameY="0" frameWidth="305" frameHeight="141" />
+<SubTexture name="body0002" x="0" y="145" width="306" height="135" frameX="0" frameY="0" frameWidth="306" frameHeight="135" />
+<SubTexture name="body0003" x="0" y="415" width="307" height="134" frameX="0" frameY="0" frameWidth="307" frameHeight="134" />
+<SubTexture name="body0004" x="609" y="128" width="306" height="125" frameX="0" frameY="0" frameWidth="306" frameHeight="125" />
+<SubTexture name="body0005" x="609" y="253" width="306" height="119" frameX="0" frameY="0" frameWidth="306" frameHeight="119" />
+<SubTexture name="body0006" x="609" y="372" width="304" height="117" frameX="0" frameY="0" frameWidth="304" frameHeight="117" />
+<SubTexture name="body0007" x="304" y="280" width="304" height="110" frameX="0" frameY="0" frameWidth="304" frameHeight="110" />
+<SubTexture name="body0008" x="915" y="0" width="308" height="100" frameX="0" frameY="0" frameWidth="308" frameHeight="100" />
+<SubTexture name="body0009" x="312" y="549" width="309" height="101" frameX="0" frameY="0" frameWidth="309" frameHeight="101" />
+<SubTexture name="body0010" x="0" y="651" width="308" height="101" frameX="0" frameY="0" frameWidth="308" frameHeight="101" />
+<SubTexture name="body0011" x="0" y="549" width="312" height="102" frameX="0" frameY="0" frameWidth="312" frameHeight="102" />
+<SubTexture name="body0012" x="308" y="651" width="312" height="101" frameX="0" frameY="0" frameWidth="312" frameHeight="101" />
+<SubTexture name="body0013" x="0" y="752" width="310" height="101" frameX="0" frameY="0" frameWidth="310" frameHeight="101" />
+<SubTexture name="body0014" x="310" y="752" width="312" height="101" frameX="0" frameY="0" frameWidth="312" frameHeight="101" />
+<SubTexture name="body0015" x="0" y="853" width="311" height="100" frameX="0" frameY="0" frameWidth="311" frameHeight="100" />
+<SubTexture name="body0016" x="311" y="853" width="311" height="99" frameX="0" frameY="0" frameWidth="311" frameHeight="99" />
+<SubTexture name="body0017" x="622" y="853" width="312" height="99" frameX="0" frameY="0" frameWidth="312" frameHeight="99" />
+<SubTexture name="body0018" x="609" y="0" width="306" height="128" frameX="0" frameY="0" frameWidth="306" frameHeight="128" />
+<SubTexture name="body0019" x="0" y="280" width="304" height="135" frameX="0" frameY="0" frameWidth="304" frameHeight="135" />
+</TextureAtlas>
