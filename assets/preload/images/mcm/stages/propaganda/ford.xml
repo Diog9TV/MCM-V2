@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ford.png">
+<SubTexture name="Ford10000" x="450" y="0" width="153" height="377" frameX="-2" frameY="-13" frameWidth="162" frameHeight="392" />
+<SubTexture name="Ford10001" x="298" y="0" width="152" height="379" frameX="-2" frameY="-11" frameWidth="162" frameHeight="392" />
+<SubTexture name="Ford10002" x="148" y="0" width="150" height="382" frameX="-2" frameY="-8" frameWidth="162" frameHeight="392" />
+<SubTexture name="Ford10003" x="0" y="0" width="148" height="383" frameX="-3" frameY="-7" frameWidth="162" frameHeight="392" />
+</TextureAtlas>
