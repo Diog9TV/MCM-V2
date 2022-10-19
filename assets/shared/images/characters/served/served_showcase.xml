@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="served_showcase.png">
+<SubTexture name="down_pose0000" x="367" y="438" width="90" height="97" frameX="-1" frameY="-17" frameWidth="93" frameHeight="115" />
+<SubTexture name="down_pose0001" x="281" y="438" width="86" height="101" frameX="0" frameY="-13" frameWidth="93" frameHeight="115" />
+<SubTexture name="down_pose0002" x="196" y="438" width="85" height="104" frameX="0" frameY="-10" frameWidth="93" frameHeight="115" />
+<SubTexture name="down_pose0003" x="522" y="238" width="85" height="105" frameX="1" frameY="-9" frameWidth="93" frameHeight="115" />
+<SubTexture name="plankton idle0000" x="243" y="0" width="82" height="147" frameX="-2" frameY="-4" frameWidth="97" frameHeight="151" />
+<SubTexture name="plankton idle0001" x="438" y="0" width="84" height="141" frameX="-2" frameY="-10" frameWidth="97" frameHeight="151" />
+<SubTexture name="plankton idle0002" x="83" y="151" width="84" height="143" frameX="-2" frameY="-10" frameWidth="97" frameHeight="151" />
+<SubTexture name="plankton idle0003" x="0" y="151" width="83" height="147" frameX="-2" frameY="-6" frameWidth="97" frameHeight="151" />
+<SubTexture name="plankton idle0004" x="162" y="0" width="81" height="150" frameX="-2" frameY="-3" frameWidth="97" frameHeight="151" />
+<SubTexture name="plankton idle0005" x="0" y="0" width="81" height="151" frameX="-2" frameY="0" frameWidth="97" frameHeight="151" />
+<SubTexture name="plankton idle0006" x="81" y="0" width="81" height="151" frameX="-1" frameY="1" frameWidth="97" frameHeight="151" />
+<SubTexture name="left_pose0000" x="522" y="120" width="85" height="118" frameX="0" frameY="-9" frameWidth="99" frameHeight="127" />
+<SubTexture name="left_pose0001" x="522" y="0" width="85" height="120" frameX="-1" frameY="-8" frameWidth="99" frameHeight="127" />
+<SubTexture name="left_pose0002" x="0" y="438" width="86" height="118" frameX="-4" frameY="-11" frameWidth="99" frameHeight="127" />
+<SubTexture name="left_pose0003" x="300" y="298" width="80" height="123" frameX="-17" frameY="-6" frameWidth="99" frameHeight="127" />
+<SubTexture name="left_pose0004" x="380" y="298" width="77" height="122" frameX="-22" frameY="-6" frameWidth="99" frameHeight="127" />
+<SubTexture name="right_pose0000" x="438" y="141" width="76" height="141" frameX="-16" frameY="-10" frameWidth="93" frameHeight="150" />
+<SubTexture name="right_pose0001" x="243" y="151" width="76" height="141" frameX="-17" frameY="-10" frameWidth="93" frameHeight="150" />
+<SubTexture name="right_pose0002" x="0" y="298" width="76" height="140" frameX="-17" frameY="-11" frameWidth="93" frameHeight="150" />
+<SubTexture name="right_pose0003" x="167" y="151" width="76" height="143" frameX="-14" frameY="-9" frameWidth="93" frameHeight="150" />
+<SubTexture name="up_pose0000" x="325" y="0" width="113" height="142" frameX="-6" frameY="-22" frameWidth="130" frameHeight="163" />
+<SubTexture name="up_pose0001" x="325" y="142" width="113" height="142" frameX="-7" frameY="-22" frameWidth="130" frameHeight="163" />
+<SubTexture name="up_pose0002" x="76" y="298" width="112" height="140" frameX="-3" frameY="-24" frameWidth="130" frameHeight="163" />
+<SubTexture name="up_pose0003" x="188" y="298" width="112" height="140" frameX="-3" frameY="-24" frameWidth="130" frameHeight="163" />
+<SubTexture name="up_pose0004" x="86" y="438" width="110" height="118" frameX="-6" frameY="-44" frameWidth="130" frameHeight="163" />
+</TextureAtlas>
